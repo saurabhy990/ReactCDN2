@@ -1,0 +1,19 @@
+.ParentDiv{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: x-large;
+    margin: 2em;
+    margin: 20px 30px;
+    
+}
+
+a{
+    color:blue;
+    
+    position: relative;
+    right: 0.4em;;
+}
+
+ 
